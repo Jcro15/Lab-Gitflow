@@ -98,6 +98,7 @@ Para crear un release utilizamos el siguietne comando
 O utilizando GitKraken
 
 ![startRelease](img/releasekraken.png)
+
 ![startRelease2](img/releasekraken2.png)
 
 ### Finalizar un release
