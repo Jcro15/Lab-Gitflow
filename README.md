@@ -96,6 +96,7 @@ Para crear un release utilizamos el siguietne comando
 ![startReleaseConsola](https://cdn.discordapp.com/attachments/718609326071218189/718965575019135106/unknown.png)
 
 O utilizando GitKraken
+
 ![startRelease](img/releasekraken.png)
 ![startRelease2](img/releasekraken2.png)
 
