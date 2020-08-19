@@ -7,6 +7,7 @@ la metodología Gitflow. Para esto se necesitará lo siguiente:
  * Java 1.8
  * Maven
  * Git
+ * GitKraken
  
  Primero se debe descargar el código inicial del laboratorio
  que cuenta con la estructura de los métodos que se van a implementar.
